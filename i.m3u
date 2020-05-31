@@ -1,135 +1,171 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** Rumänien ***********" tvg-id="" group-title="" tvg-logo="",***************** Rumänien ***********
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="RO",6TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4485.m3u8
-#EXTINF:-1,RO: VIASAT EXPLORER
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4486.m3u8
-#EXTINF:-1,RO: U TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4570.m3u8
-#EXTINF:-1,RO: TVR 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4572.m3u8
-#EXTINF:-1,RO: TVR 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4569.m3u8
-#EXTINF:-1,RO: TV1000
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4573.m3u8
-#EXTINF:-1,RO: TV 1000
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4487.m3u8
-#EXTINF:-1,RO: TNT
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4575.m3u8
-#EXTINF:-1,RO: TeleMoldovaPlus
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4550.m3u8
-#EXTINF:-1,RO: Taraf Tv
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4576.m3u8
-#EXTINF:-1,RO: Sport.ro
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4577.m3u8
-#EXTINF:-1,RO: Romania Tv
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4578.m3u8
-#EXTINF:-1,RO: Realtaea TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4557.m3u8
-#EXTINF:-1,RO: Realitatea Tv
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4579.m3u8
-#EXTINF:-1,RO: ProTV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4580.m3u8
-#EXTINF:-1,RO: Pro Cinema
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4581.m3u8
-#EXTINF:-1,RO: Prima Love
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4558.m3u8
-#EXTINF:-1,RO: prima cool
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4559.m3u8
-#EXTINF:-1,RO: Prima
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4560.m3u8
-#EXTINF:-1,RO: Paramount Channel
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4582.m3u8
-#EXTINF:-1,RO: Neptun
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4601.m3u8
-#EXTINF:-1,RO: Nat Geo Wild
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4488.m3u8
-#EXTINF:-1,RO: NATIONAL Geo wild
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4489.m3u8
-#EXTINF:-1,RO: NatGeographic
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4602.m3u8
-#EXTINF:-1,RO: MUSIC CHANNEL
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4583.m3u8
-#EXTINF:-1,RO: Music Channe hu
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4584.m3u8
-#EXTINF:-1,RO: Minimax
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4603.m3u8
-#EXTINF:-1,RO: Megamax
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4604.m3u8
-#EXTINF:-1,RO: Look Plus
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4561.m3u8
-#EXTINF:-1,RO: Kiss
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4605.m3u8
-#EXTINF:-1,RO: Kanal D
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4585.m3u8
-#EXTINF:-1,RO: Hit Music Channel
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4586.m3u8
-#EXTINF:-1,RO: History
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4606.m3u8
-#EXTINF:-1,RO: HISTORI CHANNEL
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4490.m3u8
-#EXTINF:-1,RO: HBO Romania
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4587.m3u8
-#EXTINF:-1,RO: HBO 3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4491.m3u8
-#EXTINF:-1,RO: HBO 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4492.m3u8
-#EXTINF:-1,RO: Happy
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4607.m3u8
-#EXTINF:-1,RO: FISHING & HUNTING
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4493.m3u8
-#EXTINF:-1,RO: EUROSPORT 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4494.m3u8
-#EXTINF:-1,RO: EUROSPORT 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4495.m3u8
-#EXTINF:-1,RO: Etno Tv
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4588.m3u8
-#EXTINF:-1,RO: DISNEY JUNIOR
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4496.m3u8
-#EXTINF:-1,RO: Digi24
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4610.m3u8
-#EXTINF:-1,RO: DIGI WORLD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4497.m3u8
-#EXTINF:-1,RO: Digi Sport 4
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4484.m3u8
-#EXTINF:-1,RO: Digi Sport 3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4483.m3u8
-#EXTINF:-1,RO: Digi Sport 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4482.m3u8
-#EXTINF:-1,RO: Digi Sport 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4481.m3u8
-#EXTINF:-1,RO: Digi Life
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4609.m3u8
-#EXTINF:-1,RO: DIGI FILM
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4498.m3u8
-#EXTINF:-1,RO: DIGI ANIMAL WORLD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4589.m3u8
-#EXTINF:-1,RO: DIGI 24 CRAIOVA
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4591.m3u8
-#EXTINF:-1,RO: DIGI 24
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4590.m3u8
-#EXTINF:-1,RO: CINEMAX 2
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4499.m3u8
-#EXTINF:-1,RO: B1 TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4592.m3u8
-#EXTINF:-1,RO: B1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4611.m3u8
-#EXTINF:-1,RO: AXN WHITE
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4593.m3u8
-#EXTINF:-1,RO: AXN BLACK
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4594.m3u8
-#EXTINF:-1,RO: AXN
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4595.m3u8
-#EXTINF:-1,RO: ANTENA STARS
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4596.m3u8
-#EXTINF:-1,RO: ANTENA 3
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4597.m3u8
-#EXTINF:-1,RO: Antena 1
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4598.m3u8
-#EXTINF:-1,RO: AGRO TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4599.m3u8
-#EXTINF:-1,RO: ACASA TV
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4600.m3u8
-#EXTINF:-1,RO: MegaMax HD
-http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3193.m3u8
+#EXTINF:0,1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:0,6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:0,Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0,Actualitatea TV
+http://46.214.146.46:81/tv4/playlist.m3u8
+#EXTINF:0,Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0,Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:0,Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+#EXTINF:0,Alfa Omega TV
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/chunklist_w369018163_b780800.m3u8
+#EXTINF:0,Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:0,Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0,Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0,B1
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0,B1
+http://stream.adunity.com/b1/b1_640-.m3u8
+#EXTINF:0,Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:0,BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0,Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:0,Canal33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF:0,Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:0,Credo TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:0,Digi24
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,Digi24
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+#EXTINF:0,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist.m3u8
+#EXTINF:0,Digi24
+http://82.76.40.76/digi24edge/digi24.smil/chunklist_w1778144118_b2830400_sleng.m3u8
+#EXTINF:0,Digi24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0,Digi24
+http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:0,Digi24
+http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
+#EXTINF:0,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0,Erdely TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0,Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:0,Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Info HD
+http://163.172.172.80:8080/hls/InfoHd.m3u8
+#EXTINF:0,Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0,Kaptial TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:0,MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0,MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Nasul TV
+https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
+#EXTINF:0,NEst TV
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0,Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:0,Pro TV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0,Pro TV News
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
+#EXTINF:0,Pro TV News
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0,Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:0,Publika TV
+http://livebeta.publika.md/LIVE/P/1000.m3u8
+#EXTINF:0,Publika TV
+http://livebeta.publika.md/LIVE/P/1500.m3u8
+#EXTINF:0,Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0,Radio ZU
+https://e6.myovn.com/s1/cache/radiozu/playlist.m3u8
+#EXTINF:0,Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0,Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:0,Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Speranta TV
+http://amsix40.streamkit.tv/edge/_definst_/sperantatv_500/chunklist.m3u8
+#EXTINF:0,Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0,Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:0,TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0,TV8
+http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8
+#EXTINF:0,TV8
+http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
+#EXTINF:0,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0,TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0,TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:0,TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
+#EXTINF:0,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,TVR Iasi
+http://82.208.151.107:8088/high/tvriasi/index.m3u8
+#EXTINF:0,TVR Moldova
+http://89.136.209.26:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:0,TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
+#EXTINF:0,UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF:0,UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?GrupoTopIptv
+#EXTINF:0,UTV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,UTV
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+#EXTINF:0,UTV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:0,UTV
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8

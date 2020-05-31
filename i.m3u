@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="****************** RO_CANALE ***********" tvg-id="" group-title="" tvg-logo="",***************** RO_CANALE ***********
-#EXTINF:-1,RO: VIASAT NATURE
+#EXTINF:-1 tvg-name="****************** Rumänien ***********" tvg-id="" group-title="" tvg-logo="",***************** Rumänien ***********
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUzHpez.png" group-title="RO",6TV
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4485.m3u8
 #EXTINF:-1,RO: VIASAT EXPLORER
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4486.m3u8

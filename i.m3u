@@ -1,3 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="****************** RO_CANALE ***********" tvg-id="" group-title="" tvg-logo="",***************** RO_CANALE ***********
 #EXTINF:-1,RO: VIASAT NATURE
 http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4485.m3u8
 #EXTINF:-1,RO: VIASAT EXPLORER

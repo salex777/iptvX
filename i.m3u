@@ -341,3 +341,135 @@ http://81.196.0.126:80/utvedge/utvlive/index.m3u8
 http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 #EXTINF:0,UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:-1,RO: VIASAT NATURE
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4485.m3u8
+#EXTINF:-1,RO: VIASAT EXPLORER
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4486.m3u8
+#EXTINF:-1,RO: U TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4570.m3u8
+#EXTINF:-1,RO: TVR 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4572.m3u8
+#EXTINF:-1,RO: TVR 1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4569.m3u8
+#EXTINF:-1,RO: TV1000
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4573.m3u8
+#EXTINF:-1,RO: TV 1000
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4487.m3u8
+#EXTINF:-1,RO: TNT
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4575.m3u8
+#EXTINF:-1,RO: TeleMoldovaPlus
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4550.m3u8
+#EXTINF:-1,RO: Taraf Tv
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4576.m3u8
+#EXTINF:-1,RO: Sport.ro
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4577.m3u8
+#EXTINF:-1,RO: Romania Tv
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4578.m3u8
+#EXTINF:-1,RO: Realtaea TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4557.m3u8
+#EXTINF:-1,RO: Realitatea Tv
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4579.m3u8
+#EXTINF:-1,RO: ProTV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4580.m3u8
+#EXTINF:-1,RO: Pro Cinema
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4581.m3u8
+#EXTINF:-1,RO: Prima Love
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4558.m3u8
+#EXTINF:-1,RO: prima cool
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4559.m3u8
+#EXTINF:-1,RO: Prima
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4560.m3u8
+#EXTINF:-1,RO: Paramount Channel
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4582.m3u8
+#EXTINF:-1,RO: Neptun
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4601.m3u8
+#EXTINF:-1,RO: Nat Geo Wild
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4488.m3u8
+#EXTINF:-1,RO: NATIONAL Geo wild
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4489.m3u8
+#EXTINF:-1,RO: NatGeographic
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4602.m3u8
+#EXTINF:-1,RO: MUSIC CHANNEL
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4583.m3u8
+#EXTINF:-1,RO: Music Channe hu
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4584.m3u8
+#EXTINF:-1,RO: Minimax
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4603.m3u8
+#EXTINF:-1,RO: Megamax
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4604.m3u8
+#EXTINF:-1,RO: Look Plus
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4561.m3u8
+#EXTINF:-1,RO: Kiss
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4605.m3u8
+#EXTINF:-1,RO: Kanal D
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4585.m3u8
+#EXTINF:-1,RO: Hit Music Channel
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4586.m3u8
+#EXTINF:-1,RO: History
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4606.m3u8
+#EXTINF:-1,RO: HISTORI CHANNEL
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4490.m3u8
+#EXTINF:-1,RO: HBO Romania
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4587.m3u8
+#EXTINF:-1,RO: HBO 3
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4491.m3u8
+#EXTINF:-1,RO: HBO 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4492.m3u8
+#EXTINF:-1,RO: Happy
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4607.m3u8
+#EXTINF:-1,RO: FISHING & HUNTING
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4493.m3u8
+#EXTINF:-1,RO: EUROSPORT 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4494.m3u8
+#EXTINF:-1,RO: EUROSPORT 1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4495.m3u8
+#EXTINF:-1,RO: Etno Tv
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4588.m3u8
+#EXTINF:-1,RO: DISNEY JUNIOR
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4496.m3u8
+#EXTINF:-1,RO: Digi24
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4610.m3u8
+#EXTINF:-1,RO: DIGI WORLD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4497.m3u8
+#EXTINF:-1,RO: Digi Sport 4
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4484.m3u8
+#EXTINF:-1,RO: Digi Sport 3
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4483.m3u8
+#EXTINF:-1,RO: Digi Sport 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4482.m3u8
+#EXTINF:-1,RO: Digi Sport 1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4481.m3u8
+#EXTINF:-1,RO: Digi Life
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4609.m3u8
+#EXTINF:-1,RO: DIGI FILM
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4498.m3u8
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4589.m3u8
+#EXTINF:-1,RO: DIGI 24 CRAIOVA
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4591.m3u8
+#EXTINF:-1,RO: DIGI 24
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4590.m3u8
+#EXTINF:-1,RO: CINEMAX 2
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4499.m3u8
+#EXTINF:-1,RO: B1 TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4592.m3u8
+#EXTINF:-1,RO: B1
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4611.m3u8
+#EXTINF:-1,RO: AXN WHITE
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4593.m3u8
+#EXTINF:-1,RO: AXN BLACK
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4594.m3u8
+#EXTINF:-1,RO: AXN
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4595.m3u8
+#EXTINF:-1,RO: ANTENA STARS
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4596.m3u8
+#EXTINF:-1,RO: ANTENA 3
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4597.m3u8
+#EXTINF:-1,RO: Antena 1 <- MERGE
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4598.m3u8
+#EXTINF:-1,RO: AGRO TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4599.m3u8
+#EXTINF:-1,RO: ACASA TV
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/4600.m3u8
+#EXTINF:-1,RO: MegaMax HD
+http://iptv-line.com:7899/live/live:506b419c7ec7c479/RxStPoBPot/3193.m3u8

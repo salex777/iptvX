@@ -1,176 +1,64 @@
 #EXTM3U
-#EXTINF:-1,Ro:TVR 1
-http://linux-app.tv:6204/60400655844704/32991126026152/21060
-#EXTINF:-1,Ro:TVR 2
-http://linux-app.tv:6204/60400655844704/32991126026152/21059
-#EXTINF:-1,Ro:TVR 3
-http://linux-app.tv:6204/60400655844704/32991126026152/21058
-#EXTINF:-1,Ro:TVR HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21041
-#EXTINF:-1,Ro:Romania TV backup
-http://linux-app.tv:6204/60400655844704/32991126026152/21044
-#EXTINF:-1,Ro:Antena 1
-http://linux-app.tv:6204/60400655844704/32991126026152/21131
-#EXTINF:-1,Ro:Antena 1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21130
-#EXTINF:-1,Ro:Antena 3
-http://linux-app.tv:6204/60400655844704/32991126026152/21129
-#EXTINF:-1,Ro:Antena Stars
-http://linux-app.tv:6204/60400655844704/32991126026152/21128
-#EXTINF:-1,Ro:PRO 2 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21079
-#EXTINF:-1,Ro:Pro TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21076
-#EXTINF:-1,Ro:Pro TV backup
-http://linux-app.tv:6204/60400655844704/32991126026152/21045
-#EXTINF:-1,Ro:Pro TV HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21075
-#EXTINF:-1,Ro:PRO X FHD
-http://linux-app.tv:6204/60400655844704/32991126026152/21073
-#EXTINF:-1,Ro:Digi World
-http://linux-app.tv:6204/60400655844704/32991126026152/21111
-#EXTINF:-1,Ro:Digi Life
-http://linux-app.tv:6204/60400655844704/32991126026152/21116
-#EXTINF:-1,Ro:Digi 24
-http://linux-app.tv:6204/60400655844704/32991126026152/21119
-#EXTINF:-1,Ro:AXN
-http://linux-app.tv:6204/60400655844704/32991126026152/21127
-#EXTINF:-1,Ro:AXN Black
-http://linux-app.tv:6204/60400655844704/32991126026152/21126
-#EXTINF:-1,Ro:AXN White
-http://linux-app.tv:6204/60400655844704/32991126026152/21125
-#EXTINF:-1,Ro:B1
-http://linux-app.tv:6204/60400655844704/32991126026152/21124
-#EXTINF:-1,Ro:Favorit TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21102
-#EXTINF:-1,Ro:Happy Channel
-http://linux-app.tv:6204/60400655844704/32991126026152/21097
-#EXTINF:-1,Ro:HBO
-http://linux-app.tv:6204/60400655844704/32991126026152/21096
-#EXTINF:-1,Ro:HBO 2
-http://linux-app.tv:6204/60400655844704/32991126026152/21095
-#EXTINF:-1,Ro:HBO 3
-http://linux-app.tv:6204/60400655844704/32991126026152/21094
-#EXTINF:-1,Ro:Kanal D
-http://linux-app.tv:6204/60400655844704/32991126026152/21092
-#EXTINF:-1,Ro:Kiss TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21091
-#EXTINF:-1,Ro:Etno TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21105
-#EXTINF:-1,Ro:Fine Living
-http://linux-app.tv:6204/60400655844704/32991126026152/21099
-#EXTINF:-1,Ro:Look Plus
-http://linux-app.tv:6204/60400655844704/32991126026152/21090
-#EXTINF:-1,Ro:Look TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21089
-#EXTINF:-1,Ro:Prima TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21080
-#EXTINF:-1,Ro:Realitatea TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21072
-#EXTINF:-1,Ro:Taraf TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21071
-#EXTINF:-1,Ro:Cinemax 2
-http://linux-app.tv:6204/60400655844704/32991126026152/21121
-#EXTINF:-1,Ro:Da Vinci Learning
-http://linux-app.tv:6204/60400655844704/32991126026152/21120
-#EXTINF:-1,Ro:Disney Channel
-http://linux-app.tv:6204/60400655844704/32991126026152/21109
-#EXTINF:-1,Ro:Disney Junior
-http://linux-app.tv:6204/60400655844704/32991126026152/21108
-#EXTINF:-1,Ro:Diva Universal
-http://linux-app.tv:6204/60400655844704/32991126026152/21107
-#EXTINF:-1,Ro:DocuBox
-http://linux-app.tv:6204/60400655844704/32991126026152/21106
-#EXTINF:-1,Ro:Minimax
-http://linux-app.tv:6204/60400655844704/32991126026152/21088
-#EXTINF:-1,Ro:Travel Mix
-http://linux-app.tv:6204/60400655844704/32991126026152/21042
-#EXTINF:-1,Ro:TV 1000
-http://linux-app.tv:6204/60400655844704/32991126026152/21063
-#EXTINF:-1,Ro:TV Paprika
-http://linux-app.tv:6204/60400655844704/32991126026152/21062
-#EXTINF:-1,Ro:U TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21051
-#EXTINF:-1,Ro:ZU TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21050
-#EXTINF:-1,Ro:AMC
-http://linux-app.tv:6204/60400655844704/32991126026152/21132
-#EXTINF:-1,Ro:Digi Animal World
-http://linux-app.tv:6204/60400655844704/32991126026152/21118
-#EXTINF:-1,Ro:Film Now
-http://linux-app.tv:6204/60400655844704/32991126026152/21117
-#EXTINF:-1,Ro:Film Cafe
-http://linux-app.tv:6204/60400655844704/32991126026152/21101
-#EXTINF:-1,Ro:Digi Sport 1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33423
-#EXTINF:-1,Ro:Digi Sport 2 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33424
-#EXTINF:-1,Ro:Digi Sport 3
-http://linux-app.tv:6204/60400655844704/32991126026152/33425
-#EXTINF:-1,Ro:Digi Sport 4
-http://linux-app.tv:6204/60400655844704/32991126026152/33426
-#EXTINF:-1,Ro:Discovery Channel
-http://linux-app.tv:6204/60400655844704/32991126026152/21110
-#EXTINF:-1,Ro:Eurosport 1
-http://linux-app.tv:6204/60400655844704/32991126026152/33427
-#EXTINF:-1,Ro:Eurosport 2
-http://linux-app.tv:6204/60400655844704/32991126026152/33428
-#EXTINF:-1,Ro:History
-http://linux-app.tv:6204/60400655844704/32991126026152/21093
-#EXTINF:-1,Ro:Mooz HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21087
-#EXTINF:-1,Ro:Music Channel
-http://linux-app.tv:6204/60400655844704/32991126026152/21086
-#EXTINF:-1,Ro:National Geographic
-http://linux-app.tv:6204/60400655844704/32991126026152/21085
-#EXTINF:-1,Ro:National Geographic Wild
-http://linux-app.tv:6204/60400655844704/32991126026152/21084
-#EXTINF:-1,Ro:Pro Gold
-http://linux-app.tv:6204/60400655844704/32991126026152/21077
-#EXTINF:-1,Ro:Pro TV International
-http://linux-app.tv:6204/60400655844704/32991126026152/21074
-#EXTINF:-1,Ro:Digi 4K
-http://linux-app.tv:6204/60400655844704/32991126026152/21056
-#EXTINF:-1,Ro:1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21048
-#EXTINF:-1,Ro:Bucuresti TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21047
-#EXTINF:-1,Ro:Fishing & Hunting
-http://linux-app.tv:6204/60400655844704/32991126026152/21098
-#EXTINF:-1,Ro:Na?ional TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21083
-#EXTINF:-1,Ro:Neptun TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21082
-#EXTINF:-1,Ro:Paramount Channel
-http://linux-app.tv:6204/60400655844704/32991126026152/21081
-#EXTINF:-1,Ro:Telekom sport 1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/33429
-#EXTINF:-1,Ro:Telekom sport 2
-http://linux-app.tv:6204/60400655844704/32991126026152/33430
-#EXTINF:-1,Ro:Telekom sport 3
-http://linux-app.tv:6204/60400655844704/32991126026152/33431
-#EXTINF:-1,Ro:Telekom sport 4
-http://linux-app.tv:6204/60400655844704/32991126026152/33432
-#EXTINF:-1,Ro:TEZAUR TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21043
-#EXTINF:-1,Ro:TLC
-http://linux-app.tv:6204/60400655844704/32991126026152/21064
-#EXTINF:-1,Ro:TVR
-http://linux-app.tv:6204/60400655844704/32991126026152/21061
-#EXTINF:-1,Ro:TVR Ia?i
-http://linux-app.tv:6204/60400655844704/32991126026152/21055
-#EXTINF:-1,Ro:TVR International
-http://linux-app.tv:6204/60400655844704/32991126026152/21054
-#EXTINF:-1,Ro:TVR Timi?oara
-http://linux-app.tv:6204/60400655844704/32991126026152/21052
-#EXTINF:-1,Ro:TVR1 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21040
-#EXTINF:-1,Ro:TVR2 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21039
-#EXTINF:-1,Ro:TVR3 HD
-http://linux-app.tv:6204/60400655844704/32991126026152/21038
-#EXTINF:-1,Ro:mania TV
-http://linux-app.tv:6204/60400655844704/32991126026152/21049
+#EXTINF:-1,TV1000 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6807
+#EXTINF:-1,HAPPY CHANNEL (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10237
+#EXTINF:-1,MINIMAX (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10238
+#EXTINF:-1,MEGAMAX (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6668
+#EXTINF:-1,TVR 1 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10232
+#EXTINF:-1,TVR 2 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6678
+#EXTINF:-1,TVR 3 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6667
+#EXTINF:-1,TVR INT (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10223
+#EXTINF:-1,ROMANIA TV (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10241
+#EXTINF:-1,B1 TV (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10239
+#EXTINF:-1,ANTENA STARS (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10236
+#EXTINF:-1,ANTENA 1 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10228
+#EXTINF:-1,ANTENA 3 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10233
+#EXTINF:-1,PRO TV (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6677
+#EXTINF:-1,PRO 2 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10225
+#EXTINF:-1,PRO INT (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/10227
+#EXTINF:-1,PRO CINEMA (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6674
+#EXTINF:-1,PRO GOLD (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6673
+#EXTINF:-1,PRIMA TV (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6662
+#EXTINF:-1,PRIMA LOVE (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6661
+#EXTINF:-1,PRIMA COOL (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6775
+#EXTINF:-1,REALITATEA TV (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77332
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6771
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/6770
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77335
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77340
+#EXTINF:-1,TELEKOM SPORT 1 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77366
+#EXTINF:-1,TELEKOM SPORT 2 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77365
+#EXTINF:-1,TELEKOM SPORT 3 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77334
+#EXTINF:-1,TELEKOM SPORT 4 (RO)
+http://66.northerniptv.ca:8000/cottage/cottage/77333
 #EXTINF:0,1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:0,6 TV

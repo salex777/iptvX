@@ -199,7 +199,8 @@ http://linux-app.tv:6204/15020208413552/24021189856304/21086?checkedby:iptvcat.c
 http://linux-app.tv:6204/15020208413552/24021189856304/21083?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Ro- National Geographic
 http://linux-app.tv:6204/15020208413552/24021189856304/21085?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",ALTA LISTA++++++++++++++++
+http://tv.skynetmd.eu:25461/live/Corona/Virus/690.m3u8?ch
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 3
 http://tv.skynetmd.eu:25461/live/Corona/Virus/690.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Sport",Digi Sport 3

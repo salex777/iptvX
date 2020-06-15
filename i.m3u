@@ -1,4 +1,328 @@
 #EXTM3U
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",======LISTA CARE MERGE 99 %====== 
+http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/p4rcHoe.png",Agro TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Agro TV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/667.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Alfa Omega
+http://tv.skynetmd.eu:25461/live/Corona/Virus/668.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/StJg6Pu.png",Alfa Omega TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Alfa Omega TV
+https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Alfa Omega TV
+https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Amc
+http://tv.skynetmd.eu:25461/live/Corona/Virus/669.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AnimalPlanet
+http://tv.skynetmd.eu:25461/live/Corona/Virus/670.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena 1 SD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/665.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena 3
+http://tv.skynetmd.eu:25461/live/Corona/Virus/671.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://i.imgur.com/tH624pc.png",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Comedy" tvg-logo="https://i.imgur.com/tH624pc.png",Antena Comedy
+https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena Comedy
+https://ch.iptvmate.net/8e00b8e53dfd2f3522d4c70bac04e3ee.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png",Antena Cook and Play
+https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://vignette.wikia.nocookie.net/catalinfonts/images/e/e5/Cook%26play_logo_2013.png",Antena Cook and PLay
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena Cook and PLay
+https://ch.iptvmate.net/163f3c3c469dde8877d72633c6c9a84f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena Monden
+https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6R5TLlc.png",Antena Monden
+https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6R5TLlc.png",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena Stars
+http://tv.skynetmd.eu:25461/live/Corona/Virus/672.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AXN
+http://tv.skynetmd.eu:25461/live/Corona/Virus/674.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AXN BLACK
+http://tv.skynetmd.eu:25461/live/Corona/Virus/673.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AXN Spin
+http://tv.skynetmd.eu:25461/live/Corona/Virus/675.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AXN White
+http://tv.skynetmd.eu:25461/live/Corona/Virus/676.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",B1
+http://tv.skynetmd.eu:25461/live/Corona/Virus/677.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",B1
+https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",B1
+https://ch.iptvmate.net/933c17c08861eaaa598c1399594b0c4c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VQqgkzw.jpg",B1
+https://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VQqgkzw.jpg",B1
+http://stream.adunity.com/b1/b1_640-.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VQqgkzw.jpg",B1
+http://stream.adunity.com/b1/b1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Movies" tvg-logo="https://m.imgur.com/4O7CPFq.png",Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Boomerang
+http://tv.skynetmd.eu:25461/live/Corona/Virus/678.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Bucovina TV
+https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7QHdiTO.png",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7QHdiTO.png",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Cartoon Network
+http://tv.skynetmd.eu:25461/live/Corona/Virus/679.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Cinemax
+http://tv.skynetmd.eu:25461/live/Corona/Virus/681.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Cinemax 2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/680.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Comedy Central
+http://tv.skynetmd.eu:25461/live/Corona/Virus/682.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AX5NsOv.jpg",Credo TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/AX5NsOv.jpg",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Credo TV
+https://ch.iptvmate.net/78c274e86d422686ab3b4e36d9103933.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",CredoTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/683.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",dailyfreeiptv.blogspot.com
+http://tv.skynetmd.eu:25461/Corona/Virus/691?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",dailyfreeiptv.blogspot.com
+http://tv.skynetmd.eu:25461/Corona/Virus/688?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Digi 24
+http://tv.skynetmd.eu:25461/live/Corona/Virus/684.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Digi Animal World
+http://tv.skynetmd.eu:25461/live/Corona/Virus/685.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Digi Film
+http://tv.skynetmd.eu:25461/live/Corona/Virus/686.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Digi Life
+http://tv.skynetmd.eu:25461/live/Corona/Virus/687.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 1
+http://tv.skynetmd.eu:25461/live/Corona/Virus/688.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 2
+http://tv.skynetmd.eu:25461/Corona/Virus/689?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/689.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 3
+http://tv.skynetmd.eu:25461/Corona/Virus/690?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 3
+http://tv.skynetmd.eu:25461/live/Corona/Virus/690.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Digi Sport 4
+http://tv.skynetmd.eu:25461/live/Corona/Virus/691.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Digi World
+http://tv.skynetmd.eu:25461/live/Corona/Virus/692.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Discovery
+http://tv.skynetmd.eu:25461/live/Corona/Virus/693.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Discovery Science
+http://tv.skynetmd.eu:25461/live/Corona/Virus/694.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Discovery Showcase HD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/695.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Disney Channel
+http://tv.skynetmd.eu:25461/live/Corona/Virus/696.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",DisneyJR
+http://tv.skynetmd.eu:25461/live/Corona/Virus/697.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Diva
+http://tv.skynetmd.eu:25461/live/Corona/Virus/698.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Docubox
+http://tv.skynetmd.eu:25461/live/Corona/Virus/699.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",DTX
+http://tv.skynetmd.eu:25461/live/Corona/Virus/700.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Elita TV
+https://ch.iptvmate.net/5bc8b10434c5bcb986d69c7a8c18f4cb.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Epic Drama
+http://tv.skynetmd.eu:25461/live/Corona/Virus/701.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",EST TV
+https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/kQJ10r8/est-tv-ro.png",EST TV Neamt
+http://89.38.8.130:39435?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",EtnoTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/702.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Eurosport
+http://tv.skynetmd.eu:25461/live/Corona/Virus/703.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport",Extreme Sport
+http://tv.skynetmd.eu:25461/live/Corona/Virus/704.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Fine Living
+http://tv.skynetmd.eu:25461/live/Corona/Virus/705.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Food Network
+http://tv.skynetmd.eu:25461/live/Corona/Virus/706.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Happy Channel
+http://tv.skynetmd.eu:25461/live/Corona/Virus/707.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",HBO 2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/708.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",HBO 3
+http://tv.skynetmd.eu:25461/live/Corona/Virus/709.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",HBO HD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/710.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",History
+http://tv.skynetmd.eu:25461/live/Corona/Virus/711.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/0j1matP.jpg",Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Info HD
+https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/jo5fei5.png",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Intermedia TV
+https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",KanalD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/712.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",KissTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/713.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",LookPlus
+http://tv.skynetmd.eu:25461/live/Corona/Virus/714.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",LookTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/715.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Minimax
+http://tv.skynetmd.eu:25461/live/Corona/Virus/716.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7q7gu4n.png",Mooz Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/18.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/fw2fTCA.jpg",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/a5euWt1.png",Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/18.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3alPZ8X.jpg",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/W3YkqXn.png",Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/18.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/K7jP9r1.jpg",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cgJNpv9.png",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Music Channel
+http://tv.skynetmd.eu:25461/live/Corona/Virus/717.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",NatGeo
+http://tv.skynetmd.eu:25461/live/Corona/Virus/718.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",NatGeoWild
+http://tv.skynetmd.eu:25461/live/Corona/Virus/719.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",National24 Plus
+http://tv.skynetmd.eu:25461/live/Corona/Virus/720.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",NationalTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/721.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Nickelodeon
+http://tv.skynetmd.eu:25461/live/Corona/Virus/722.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PrimaTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/723.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro 2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/724.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/c7876ec2c0f074fa8aaf0f00b226c044.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/3b535949f7e027cc567277c70224515c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News;Undefined" tvg-logo="https://i.imgur.com/O9T7Uqp.png",Pro X
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProCinema
+http://tv.skynetmd.eu:25461/live/Corona/Virus/725.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Profit.ro
+https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xM1dw57.png",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProGOLD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/726.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProTV International
+http://tv.skynetmd.eu:25461/live/Corona/Virus/727.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/L0Givzu.png",Realitatea Plus
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/L0Givzu.png",Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Realitatea TV
+https://ch.iptvmate.net/3d5810f4977ab3247bf7b5f7ad03d6e2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RealitateaTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/729.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",RomaniaTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/730.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/exdDHml.png",Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TarafTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/731.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TLC
+http://tv.skynetmd.eu:25461/live/Corona/Virus/732.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TNT
+http://tv.skynetmd.eu:25461/live/Corona/Virus/733.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Travel
+http://tv.skynetmd.eu:25461/live/Corona/Virus/735.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Travel Mix
+http://tv.skynetmd.eu:25461/live/Corona/Virus/734.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg",TravelMix
+http://89.38.8.131:39520?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TravelMix
+https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Trinitas
+http://tv.skynetmd.eu:25461/live/Corona/Virus/736.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/0CbAlXu.png",TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TV Paprika
+http://tv.skynetmd.eu:25461/live/Corona/Virus/737.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/44ZcVs5/tv-se-mangalia-ro.jpg",TV SE
+http://89.38.8.130:39419?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TV SE
+https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TV1000
+http://tv.skynetmd.eu:25461/live/Corona/Virus/738.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6T7w975.png",TVPlus Suceava
+http://85.186.146.34:8080?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVPlus Suceava
+https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/wzoSQ85.png",TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR 1
+https://ch.iptvmate.net/e9b4e8085f5143cf58cbeb71433b2e81.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/K0u1bpZ.png",TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR 2
+https://ch.iptvmate.net/0f1fa34f585a2b154408fde6fd5c4f1f.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR 3
+https://ch.iptvmate.net/fcc08023da9b9343fe42a703574ead75.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/Uz1oiYM.png",TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR Cluj
+https://ch.iptvmate.net/8c94f066b6fa9af40e746e12f9153081.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/XW7BIDB.png",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/hBb7MPp.png",TVR Craiova
+http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR Craiova
+https://ch.iptvmate.net/313dc2be76f8777149bf88f8dacaa295.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/L98VUhG.png",TVR Iasi
+http://89.136.209.26:1935/liveedge/TVRIASI.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR Iasi
+https://ch.iptvmate.net/40c38d7ce8e052f0647ed5c4056dbaba.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/JIdvsc1.png",TVR International
+http://89.136.209.33:1935/liveorigin/TVRI.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/b6EStAB.png",TVR Targu-Mures
+http://89.136.209.26:1935/liveedge/TVRTGMURES.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="General;Undefined" tvg-logo="https://i.imgur.com/qZ7trDX.png",TVR Timisoara
+http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVR Timisoara
+https://ch.iptvmate.net/6a92cb9fdcb8293667ba4cb48df667e2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Tvr1
+http://tv.skynetmd.eu:25461/live/Corona/Virus/739.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Tvr2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/740.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Tvr3
+http://tv.skynetmd.eu:25461/live/Corona/Virus/741.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png",TVSat
+http://89.38.8.130:39443?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",TVSat
+https://ch.iptvmate.net/cad4c46912403e9f067ca9d10387d1e9.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",UTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/742.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Viasat Explore
+http://tv.skynetmd.eu:25461/live/Corona/Virus/743.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Viasat History
+http://tv.skynetmd.eu:25461/live/Corona/Virus/744.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Viasat Nature
+http://tv.skynetmd.eu:25461/live/Corona/Virus/745.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png",VP TV
+http://89.38.8.130:39437?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",VP TV
+https://ch.iptvmate.net/e6566abb541c96b09a710d718fe750ab.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ZU TV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/746.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",=====SFARSITUL LISTEI====== 
+http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby:i
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Na?ional TV
 http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",Na?ional TV

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",======LISTA CARE MERGE 99 %====== 
+#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",===LISTA MERGE 99 %=== 
 http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby
 #EXTINF:-1 group-title="Undefined",Agro TV
 http://tv.skynetmd.eu:25461/live/Corona/Virus/667.m3u8?checkedby:iptvcat.com

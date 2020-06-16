@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",===LISTA MERGE 99 %=== 
-#EXTINF:-1 group-title="Undefined",Antena 1 SD
+#EXTINF:-1 group-title="Undefined",Animal Planet
 http://tv.skynetmd.eu:25461/live/Corona/Virus/670.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Antena 1 SD
 http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby

@@ -1,6 +1,36 @@
 #EXTM3U
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",===LISTA MERGE 99 %=== 
+http://tv.skynetmd.eu:25461/live/Corona/Virus/670.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Antena 1 SD
 http://linux-app.tv:6204/60400655844704/32991126026152/21083?checkedby
+#EXTINF:-1 group-title="Undefined",Antena Stars
+http://tv.skynetmd.eu:25461/live/Corona/Virus/672.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProTV International
+http://tv.skynetmd.eu:25461/live/Corona/Virus/727.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",PrimaTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/723.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",NationalTV
+http://tv.skynetmd.eu:25461/live/Corona/Virus/721.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",KanalD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/712.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProGOLD
+http://tv.skynetmd.eu:25461/live/Corona/Virus/726.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro 2
+http://tv.skynetmd.eu:25461/live/Corona/Virus/724.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/c7876ec2c0f074fa8aaf0f00b226c044.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Pro TV News
+https://ch.iptvmate.net/3b535949f7e027cc567277c70224515c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="News;Undefined" tvg-logo="https://i.imgur.com/O9T7Uqp.png",Pro X
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",ProCinema
+http://tv.skynetmd.eu:25461/live/Corona/Virus/725.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Nickelodeon
+http://tv.skynetmd.eu:25461/live/Corona/Virus/722.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Profit.ro
+https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xM1dw57.png",Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Agro TV
 http://tv.skynetmd.eu:25461/live/Corona/Virus/667.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Alfa Omega
@@ -10,8 +40,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?st
 #EXTINF:-1 group-title="Undefined",Amc
 http://tv.skynetmd.eu:25461/live/Corona/Virus/669.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",AnimalPlanet
-http://tv.skynetmd.eu:25461/live/Corona/Virus/670.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Antena 1 SD
 http://tv.skynetmd.eu:25461/live/Corona/Virus/665.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Antena 3
 http://tv.skynetmd.eu:25461/live/Corona/Virus/671.m3u8?checkedby:iptvcat.com
@@ -33,8 +61,6 @@ https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8?checkedby:iptvcat.
 https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6R5TLlc.png",Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Antena Stars
-http://tv.skynetmd.eu:25461/live/Corona/Virus/672.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",AXN
 http://tv.skynetmd.eu:25461/live/Corona/Virus/674.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",AXN BLACK
@@ -161,8 +187,6 @@ https://ch.iptvmate.net/21b26cbdbcf7a03cff650de4aa730c2f.m3u8?checkedby:iptvcat.
 http://46.4.14.12:9999/intermedia1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Intermedia TV
 https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",KanalD
-http://tv.skynetmd.eu:25461/live/Corona/Virus/712.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",KissTV
 http://tv.skynetmd.eu:25461/live/Corona/Virus/713.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",LookPlus
@@ -193,30 +217,6 @@ http://tv.skynetmd.eu:25461/live/Corona/Virus/718.m3u8?checkedby:iptvcat.com
 http://tv.skynetmd.eu:25461/live/Corona/Virus/719.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",National24 Plus
 http://tv.skynetmd.eu:25461/live/Corona/Virus/720.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",NationalTV
-http://tv.skynetmd.eu:25461/live/Corona/Virus/721.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon
-http://tv.skynetmd.eu:25461/live/Corona/Virus/722.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",PrimaTV
-http://tv.skynetmd.eu:25461/live/Corona/Virus/723.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Pro 2
-http://tv.skynetmd.eu:25461/live/Corona/Virus/724.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Pro TV News
-https://ch.iptvmate.net/c7876ec2c0f074fa8aaf0f00b226c044.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Pro TV News
-https://ch.iptvmate.net/3b535949f7e027cc567277c70224515c.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="News;Undefined" tvg-logo="https://i.imgur.com/O9T7Uqp.png",Pro X
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",ProCinema
-http://tv.skynetmd.eu:25461/live/Corona/Virus/725.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Profit.ro
-https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xM1dw57.png",Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",ProGOLD
-http://tv.skynetmd.eu:25461/live/Corona/Virus/726.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",ProTV International
-http://tv.skynetmd.eu:25461/live/Corona/Virus/727.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/L0Givzu.png",Realitatea Plus
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/L0Givzu.png",Realitatea TV

@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RO: ===TV ROMANIA===
 http://live.faucontv.com:8000/aradaradian1360/zyw
+#EXTINF:-1,RO | ANTENA 1 <- MERGE
+http://ux.mytvxweb.me:25461/Pr/1234/331467?checkedby:iptvcat.com
 #EXTINF:-1,RO | VIASAT NATURE
 http://ux.mytvxweb.me:25461/Pr/1234/331405
 #EXTINF:-1,RO | VIASAT EXPLORER

@@ -1,17 +1,12 @@
 #EXTM3U
 #EXTINF:-1,RO: ===LISTA1 RO===
+http://hv-iptv.ml:88/Xuxul/kyuTulHv
 #EXTINF:-1,RO: 1 Music Channel
 http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7176
-#EXTINF:-1,RO: A7 Tv
+#EXTINF:-1,RO: Cinemax 2
 http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7177
-#EXTINF:-1,RO: Acasa HD
+#EXTINF:-1,RO: Pro 2
 http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7178
-#EXTINF:-1,RO: ACUM TV
-http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7179
-#EXTINF:-1,RO: Acuma TV
-http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7180
-#EXTINF:-1,RO: Agro TV
-http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7181
 #EXTINF:-1,RO: ALFA & OMEGA TV
 http://hv-iptv.ml:88/Xuxul/kyuTulHvX5/7182
 #EXTINF:-1,RO: Alpha Media TV

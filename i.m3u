@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:-1,===RO-RO=====================
 http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
+#EXTINF:-1,RO | Telekom Sport 2 HD
+http://ui.k93c.com:3356/enis/enis123/759
+#EXTINF:-1,RO | Telekom Sport 3 HD
+http://ui.k93c.com:3356/enis/enis123/760
+#EXTINF:-1,RO | Telekom Sport 4 HD
+http://ui.k93c.com:3356/enis/enis123/761
+#EXTINF:-1,RO | TVR 1
+http://ui.k93c.com:3356/enis/enis123/1293
+#EXTINF:-1,RO | TVR 2
+http://ui.k93c.com:3356/enis/enis123/1294
+#EXTINF:-1,RO | Digi 24
+http://ui.k93c.com:3356/enis/enis123/1306
+#EXTINF:-1,RO | Digi Animal World
+http://ui.k93c.com:3356/enis/enis123/1305
+#EXTINF:-1,RO | Protv HD
+http://ui.k93c.com:3356/enis/enis123/1308
+#EXTINF:-1,RO | Protv News
+http://ui.k93c.com:3356/enis/enis123/1307
+#EXTINF:-1,RO | Romania TV
+http://ui.k93c.com:3356/enis/enis123/1295
+#EXTINF:-1,RO | Discovery Channel
+http://ui.k93c.com:3356/enis/enis123/1301
+#EXTINF:-1,RO | Discovery Science
+http://ui.k93c.com:3356/enis/enis123/1310
+#EXTINF:-1,RO | AMC
+http://ui.k93c.com:3356/enis/enis123/1296
+#EXTINF:-1,RO | Digi Sport 1 HD
+http://ui.k93c.com:3356/enis/enis123/2507
+#EXTINF:-1,RO | Digi Sport 2 HD
+http://ui.k93c.com:3356/enis/enis123/2508
+#EXTINF:-1,RO | Digi Sport 3 HD
+http://ui.k93c.com:3356/enis/enis123/2509
+#EXTINF:-1,RO | Digi Sport 4 HD
+http://ui.k93c.com:3356/enis/enis123/2510
 #EXTINF:-1,Pro Tv
 http://tv.skynetmd.eu:25461/Corona/Virus/1577
 #EXTINF:-1,Pro Tv HD

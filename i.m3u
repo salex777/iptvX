@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1,===RO-RO=====================
 http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
-#EXTINF:-1,RO | Telekom Sport 2 HD
-http://ui.k93c.com:3356/enis/enis123/759
 #EXTINF:-1,RO | MOLDOVA TV
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1,RO | PRO CINEMA
-https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:-1,RO | Telekom Sport 3 HD
 http://ui.k93c.com:3356/enis/enis123/760
 #EXTINF:-1,RO | Telekom Sport 4 HD

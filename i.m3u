@@ -1,338 +1,148 @@
 #EXTM3U
-#EXTINF:-1,===CANALE NOI================
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
-#EXTINF:-1,TVR 1 RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/134
-#EXTINF:-1,TVR 2 RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/222
-#EXTINF:-1,Protv HD RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/223
-#EXTINF:-1,Kanal D RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/224
-#EXTINF:-1,Pro-X  RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/227
-#EXTINF:-1,Favorit TV  RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/314
-#EXTINF:-1,Antena 1 RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/226
-#EXTINF:-1,Pro Cinema RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/231
-#EXTINF:-1,Realitatea RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/228
-#EXTINF:-1,TV paprika RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/230
-#EXTINF:-1,Digi 24 RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/229
-#EXTINF:-1,Taraf tv HD RO
-http://mrakiptv.mrak-iptv.com:25461/maradona/maradona/225
-#EXTINF:-1,===RO-RO=====================
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
-#EXTINF:-1,RO | MOLDOVA TV
-http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
-#EXTINF:-1,RO | Telekom Sport 3 HD
-http://ui.k93c.com:3356/enis/enis123/760
-#EXTINF:-1,RO | Telekom Sport 4 HD
-http://ui.k93c.com:3356/enis/enis123/761
-#EXTINF:-1,RO | TVR 1
-http://ui.k93c.com:3356/enis/enis123/1293
-#EXTINF:-1,RO | TVR 2
-http://ui.k93c.com:3356/enis/enis123/1294
-#EXTINF:-1,RO | Digi 24
-http://ui.k93c.com:3356/enis/enis123/1306
-#EXTINF:-1,RO | Digi Animal World
-http://ui.k93c.com:3356/enis/enis123/1305
-#EXTINF:-1,RO | Protv HD
-http://ui.k93c.com:3356/enis/enis123/1308
-#EXTINF:-1,RO | Protv News
-http://ui.k93c.com:3356/enis/enis123/1307
-#EXTINF:-1,RO | Romania TV
-http://ui.k93c.com:3356/enis/enis123/1295
-#EXTINF:-1,RO | Discovery Channel
-http://ui.k93c.com:3356/enis/enis123/1301
-#EXTINF:-1,RO | Discovery Science
-http://ui.k93c.com:3356/enis/enis123/1310
-#EXTINF:-1,RO | AMC
-http://ui.k93c.com:3356/enis/enis123/1296
-#EXTINF:-1,RO | Digi Sport 1 HD
-http://ui.k93c.com:3356/enis/enis123/2507
-#EXTINF:-1,RO | Digi Sport 2 HD
-http://ui.k93c.com:3356/enis/enis123/2508
-#EXTINF:-1,RO | Digi Sport 3 HD
-http://ui.k93c.com:3356/enis/enis123/2509
-#EXTINF:-1,RO | Digi Sport 4 HD
-http://ui.k93c.com:3356/enis/enis123/2510
-#EXTINF:-1,Pro Tv
-http://tv.skynetmd.eu:25461/Corona/Virus/1577
-#EXTINF:-1,Pro Tv HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1578
-#EXTINF:-1,Pro Tv International
-http://tv.skynetmd.eu:25461/Corona/Virus/1579
-#EXTINF:-1,Antena 1
-http://tv.skynetmd.eu:25461/Corona/Virus/1580
-#EXTINF:-1,Antena 1 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1581
-#EXTINF:-1,TVR 1
-http://tv.skynetmd.eu:25461/Corona/Virus/1582
-#EXTINF:-1,TVR 2
-http://tv.skynetmd.eu:25461/Corona/Virus/1583
-#EXTINF:-1,TVR 3
-http://tv.skynetmd.eu:25461/Corona/Virus/1584
-#EXTINF:-1,TVR HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1585
-#EXTINF:-1,TVR International
-http://tv.skynetmd.eu:25461/Corona/Virus/1586
-#EXTINF:-1,Prima Tv
-http://tv.skynetmd.eu:25461/Corona/Virus/1587
-#EXTINF:-1,Kanal D
-http://tv.skynetmd.eu:25461/Corona/Virus/1588
-#EXTINF:-1,Kanal D HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1589
-#EXTINF:-1,National TV
-http://tv.skynetmd.eu:25461/Corona/Virus/1590
-#EXTINF:-1,National 24 Plus
-http://tv.skynetmd.eu:25461/Corona/Virus/1591
-#EXTINF:-1,Nasul Tv
-http://tv.skynetmd.eu:25461/Corona/Virus/1592
-#EXTINF:-1,B1
-http://tv.skynetmd.eu:25461/Corona/Virus/1593
-#EXTINF:-1,Digi 24
-http://tv.skynetmd.eu:25461/Corona/Virus/1594
-#EXTINF:-1,Realitatea Plus
-http://tv.skynetmd.eu:25461/Corona/Virus/1595
-#EXTINF:-1,Antena 3
-http://tv.skynetmd.eu:25461/Corona/Virus/1596
-#EXTINF:-1,Antena 3 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1597
-#EXTINF:-1,Romania TV
-http://tv.skynetmd.eu:25461/Corona/Virus/1598
-#EXTINF:-1,Digi Sport 1
-http://tv.skynetmd.eu:25461/Corona/Virus/1599
-#EXTINF:-1,Digi Sport 1 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1600
-#EXTINF:-1,Digi Sport 2
-http://tv.skynetmd.eu:25461/Corona/Virus/1601
-#EXTINF:-1,Digi Sport 2 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1602
-#EXTINF:-1,Digi Sport 3
-http://tv.skynetmd.eu:25461/Corona/Virus/1603
-#EXTINF:-1,Digi Sport 3 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1604
-#EXTINF:-1,Digi Sport 4
-http://tv.skynetmd.eu:25461/Corona/Virus/1605
-#EXTINF:-1,Digi Sport 4 HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1606
-#EXTINF:-1,Eurosport 1
-http://tv.skynetmd.eu:25461/Corona/Virus/1607
-#EXTINF:-1,Eurosport 2
-http://tv.skynetmd.eu:25461/Corona/Virus/1608
-#EXTINF:-1,Look Sport
-http://tv.skynetmd.eu:25461/Corona/Virus/1609
-#EXTINF:-1,Look Sport HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1610
-#EXTINF:-1,Look Plus
-http://tv.skynetmd.eu:25461/Corona/Virus/1611
-#EXTINF:-1,Look Plus HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1612
-#EXTINF:-1,Pro X
-http://tv.skynetmd.eu:25461/Corona/Virus/1613
-#EXTINF:-1,Pro X HD
-http://tv.skynetmd.eu:25461/Corona/Virus/1614
-#EXTINF:-1,Extreme Sport
-http://tv.skynetmd.eu:25461/Corona/Virus/1615
-#EXTINF:-1,FightBox
-http://tv.skynetmd.eu:25461/Corona/Virus/1616
-#EXTINF:-1,===NOU-RO=====================
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
-#EXTINF:-1,RO:Telekom Sport 1 HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1605
-#EXTINF:-1,RO:Telekom Sport 2 HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1606
-#EXTINF:-1,RO:Telekom Sport 3 HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1607
-#EXTINF:-1,RO:Telekom Sport 4 HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1608
-#EXTINF:-1,RO:DIGI Sport 1
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1609
-#EXTINF:-1,RO:DIGI Sport 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1610
-#EXTINF:-1,RO:DIGI Sport 3
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1611
-#EXTINF:-1,RO:Digi Sport 4
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1612
-#EXTINF:-1,RO:DIGI SPORTS 4
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/1613
-#EXTINF:-1,RO:TVR 1
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3873
-#EXTINF:-1,RO:TVR 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3874
-#EXTINF:-1,RO:TVR 3
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3875
-#EXTINF:-1,RO:TVR Cluj
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3876
-#EXTINF:-1,RO:TVR Craiova
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3877
-#EXTINF:-1,RO:TVR HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3878
-#EXTINF:-1,RO:TVR Iasi
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3879
-#EXTINF:-1,RO:TVR International (TVRi)
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3880
-#EXTINF:-1,RO:TVR Moldova
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3881
-#EXTINF:-1,RO:TVR Timisoara
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3882
-#EXTINF:-1,RO:TVR Tirgu-Mures
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3883
-#EXTINF:-1,RO:Romania Tv
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3884
-#EXTINF:-1,RO:AMC
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3885
-#EXTINF:-1,RO:Animal Planet
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3886
-#EXTINF:-1,RO:Boomerang
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3887
-#EXTINF:-1,RO:Kanal D HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3888
-#EXTINF:-1,RO:Cinemax 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3890
-#EXTINF:-1,RO:Cinemax HD RO
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3891
-#EXTINF:-1,RO:Cinemax/Megamax RO
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3892
-#EXTINF:-1,RO:MTV Romania
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3893
-#EXTINF:-1,RO:1 Music Channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3894
-#EXTINF:-1,RO:Antena 1 FHD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3895
-#EXTINF:-1,RO:Antena Comedy Play
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3896
-#EXTINF:-1,RO:Antena 3
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3897
-#EXTINF:-1,RO:Digi 24
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3898
-#EXTINF:-1,RO:DIGI 24 Craiova
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3899
-#EXTINF:-1,RO:DIGI 24 Galati
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3900
-#EXTINF:-1,RO:Digi Animal World
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3901
-#EXTINF:-1,RO:Digi Life
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3903
-#EXTINF:-1,RO:Digi World
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3904
-#EXTINF:-1,RO:Discovery channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3905
-#EXTINF:-1,RO:Discovery science
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3906
-#EXTINF:-1,RO:Disney Channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3907
-#EXTINF:-1,RO:Disney Junior
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3908
-#EXTINF:-1,RO:Happy Channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3909
-#EXTINF:-1,RO:HBO 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3910
-#EXTINF:-1,RO:HBO 3
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3911
-#EXTINF:-1,RO:HBO Romania
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3912
-#EXTINF:-1,RO:Viasat History
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3913
-#EXTINF:-1,RO:Viasat Nature
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3914
-#EXTINF:-1,RO:History Channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3915
-#EXTINF:-1,RO:National 24+
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3916
-#EXTINF:-1,RO:National Geographic
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3917
-#EXTINF:-1,RO:National TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3918
-#EXTINF:-1,RO:Nickelodeon
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3919
-#EXTINF:-1,RO:ProTV FHD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3920
-#EXTINF:-1,RO:ProTV Chisinau
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3921
-#EXTINF:-1,RO:ProTV News
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3922
-#EXTINF:-1,RO:PRO TV HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3924
-#EXTINF:-1,RO:TV 1000 HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3925
-#EXTINF:-1,RO:Telestar1
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3926
-#EXTINF:-1,RO:Antena Stars
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3927
-#EXTINF:-1,RO:B1
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3928
-#EXTINF:-1,RO:Kiss TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3929
-#EXTINF:-1,RO:Paramount Channel
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3930
-#EXTINF:-1,RO:Realitatea HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3931
-#EXTINF:-1,RO:Alfa Omega TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3932
-#EXTINF:-1,RO:Alpha Media
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3933
-#EXTINF:-1,RO:Antena International
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3934
-#EXTINF:-1,RO:ATV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3935
-#EXTINF:-1,RO:Realitatea Plus HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3936
-#EXTINF:-1,RO:BIT TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3937
-#EXTINF:-1,RO:Bucuresti TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3938
-#EXTINF:-1,RO:Columna TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3939
-#EXTINF:-1,RO:Credo TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3940
-#EXTINF:-1,RO:Cromtel TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3941
-#EXTINF:-1,RO:Iasi TV Life
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3942
-#EXTINF:-1,RO:NEst tv
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3943
-#EXTINF:-1,RO:Tele m
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3944
-#EXTINF:-1,RO:Magic TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3945
-#EXTINF:-1,RO:Travel Mix
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3946
-#EXTINF:-1,RO:U TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3947
-#EXTINF:-1,RO:Valea Prahovei TV HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3948
-#EXTINF:-1,RO:TV5 MONDE EUROPE
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3949
-#EXTINF:-1,RO:Taraf TV
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3950
-#EXTINF:-1,RO:ETNO TV HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3951
-#EXTINF:-1,RO:PRO 2 (ACASA TV)
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3952
-#EXTINF:-1,RO:Look Sport HD
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3953
-#EXTINF:-1,RO:Look Plus
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3954
-#EXTINF:-1,RO:Eurosport
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3955
-#EXTINF:-1,RO:Eurosport 1 HD RO
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3956
-#EXTINF:-1,RO:Eurosport 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3957
-#EXTINF:-1,RO:PRO X
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3958
-#EXTINF:-1,RO:DIGI SPORTS 1
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3959
-#EXTINF:-1,RO:DIGI SPORTS 2
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3960
-#EXTINF:-1,RO:DIGI SPORTS 3
-http://boss1987.sytes.net:23000/hvcdB100tg/Pf47Ehdvaw/3961
+#EXTINF:-1,===Canale1================
+#EXTINF:-1,Ro:HBO_1_HD
+http://mhiptv.com:8888/noval/123456/4841
+#EXTINF:-1,Ro:HBO_2_HD
+http://mhiptv.com:8888/noval/123456/4840
+#EXTINF:-1,Ro:HBO_3_HD
+http://mhiptv.com:8888/noval/123456/4839
+#EXTINF:-1,Ro:Digi_Sport1
+http://mhiptv.com:8888/noval/123456/4838
+#EXTINF:-1,Ro:Digi_Sport2
+http://mhiptv.com:8888/noval/123456/4837
+#EXTINF:-1,Ro:Digi_Sport3
+http://mhiptv.com:8888/noval/123456/4836
+#EXTINF:-1,Ro:Digi_Sport4
+http://mhiptv.com:8888/noval/123456/4835
+#EXTINF:-1,Ro:TVR 1
+http://mhiptv.com:8888/noval/123456/4831
+#EXTINF:-1,Ro:TVR_2
+http://mhiptv.com:8888/noval/123456/4828
+#EXTINF:-1,Ro:TVR_3
+http://mhiptv.com:8888/noval/123456/4829
+#EXTINF:-1,Ro:Antena_1
+http://mhiptv.com:8888/noval/123456/4823
+#EXTINF:-1,Ro:CineMax_2
+http://mhiptv.com:8888/noval/123456/4822
+#EXTINF:-1,Ro:Digi World
+http://mhiptv.com:8888/noval/123456/4830
+#EXTINF:-1,Ro:Digi_Animal_World
+http://mhiptv.com:8888/noval/123456/4834
+#EXTINF:-1,Ro:Digi_Filim
+http://mhiptv.com:8888/noval/123456/4833
+#EXTINF:-1,Ro:Digi_Life
+http://mhiptv.com:8888/noval/123456/4832
+#EXTINF:-1,Ro:Disney_Junior
+http://mhiptv.com:8888/noval/123456/4821
+#EXTINF:-1,Ro:History_Channel
+http://mhiptv.com:8888/noval/123456/4820
+#EXTINF:-1,Ro:KanaL_D
+http://mhiptv.com:8888/noval/123456/4819
+#EXTINF:-1,Ro:MegaMax
+http://mhiptv.com:8888/noval/123456/4815
+#EXTINF:-1,Ro:MiniMax
+http://mhiptv.com:8888/noval/123456/4818
+#EXTINF:-1,Ro:Nat_Geo
+http://mhiptv.com:8888/noval/123456/4817
+#EXTINF:-1,Ro:Nat_Geo_Wild
+http://mhiptv.com:8888/noval/123456/4816
+#EXTINF:-1,Ro:National
+http://mhiptv.com:8888/noval/123456/4813
+#EXTINF:-1,Ro:Pro_TV
+http://mhiptv.com:8888/noval/123456/4812
+#EXTINF:-1,Ro:TV1000
+http://mhiptv.com:8888/noval/123456/4827
+#EXTINF:-1,Ro:Viasat_Explorer
+http://mhiptv.com:8888/noval/123456/4826
+#EXTINF:-1,Ro:Viasat_History
+http://mhiptv.com:8888/noval/123456/4825
+#EXTINF:-1,Ro:Viasat_Nature
+http://mhiptv.com:8888/noval/123456/4824
+#EXTINF:-1,===Canale2================
+#EXTINF:-1,RO: KANAL D
+http://jockeriptv.com:8080/navaro/navaro/23742
+#EXTINF:-1,RO: PROTV
+http://jockeriptv.com:8080/navaro/navaro/23743
+#EXTINF:-1,RO: PRO TV 2
+http://jockeriptv.com:8080/navaro/navaro/23744
+#EXTINF:-1,RO: PROTV INTERNATIONAL
+http://jockeriptv.com:8080/navaro/navaro/23745
+#EXTINF:-1,RO: NATIONAL TV
+http://jockeriptv.com:8080/navaro/navaro/23746
+#EXTINF:-1,RO: ANTENA 1 HD
+http://jockeriptv.com:8080/navaro/navaro/23747
+#EXTINF:-1,RO: ANTENA 3 FHD
+http://jockeriptv.com:8080/navaro/navaro/23748
+#EXTINF:-1,RO: PRIMA TV
+http://jockeriptv.com:8080/navaro/navaro/23749
+#EXTINF:-1,RO: PRO CINEMA
+http://jockeriptv.com:8080/navaro/navaro/23750
+#EXTINF:-1,RO: B1
+http://jockeriptv.com:8080/navaro/navaro/23751
+#EXTINF:-1,RO: ANTENA STARS FHD
+http://jockeriptv.com:8080/navaro/navaro/23752
+#EXTINF:-1,RO: AMC
+http://jockeriptv.com:8080/navaro/navaro/23753
+#EXTINF:-1,RO: AXN [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23754
+#EXTINF:-1,RO: AXN WHITE
+http://jockeriptv.com:8080/navaro/navaro/23755
+#EXTINF:-1,RO: TLC
+http://jockeriptv.com:8080/navaro/navaro/23756
+#EXTINF:-1,RO: TV 1000 HD
+http://jockeriptv.com:8080/navaro/navaro/23757
+#EXTINF:-1,RO: UTV FHD
+http://jockeriptv.com:8080/navaro/navaro/23758
+#EXTINF:-1,RO: B1 TV
+http://jockeriptv.com:8080/navaro/navaro/23759
+#EXTINF:-1,RO: CROMTEL
+http://jockeriptv.com:8080/navaro/navaro/23761
+#EXTINF:-1,RO: DIVA UNIVERSAL
+http://jockeriptv.com:8080/navaro/navaro/23762
+#EXTINF:-1,RO: FILMBOX EXTRA FHD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23763
+#EXTINF:-1,RO: HAPPY CHANNEL FHD
+http://jockeriptv.com:8080/navaro/navaro/23764
+#EXTINF:-1,RO: HBO 3
+http://jockeriptv.com:8080/navaro/navaro/23765
+#EXTINF:-1,RO: KISS TV
+http://jockeriptv.com:8080/navaro/navaro/23766
+#EXTINF:-1,RO: LOOK PLUS FHD
+http://jockeriptv.com:8080/navaro/navaro/23767
+#EXTINF:-1,RO: MUSIC CHANNEL
+http://jockeriptv.com:8080/navaro/navaro/23768
+#EXTINF:-1,RO: CARTOON NETWORK
+http://jockeriptv.com:8080/navaro/navaro/23769
+#EXTINF:-1,RO: DISNEY JUNIOR
+http://jockeriptv.com:8080/navaro/navaro/23770
+#EXTINF:-1,RO: MINIMAX ROMANIA HD
+http://jockeriptv.com:8080/navaro/navaro/23771
+#EXTINF:-1,RO: CBS REALITY
+http://jockeriptv.com:8080/navaro/navaro/23772
+#EXTINF:-1,RO: HISTORY FHD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23773
+#EXTINF:-1,RO: NAT GEO WILD HD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23774
+#EXTINF:-1,RO: FISHING & HUNTING [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23775
+#EXTINF:-1,RO: DIGI SPORT 1 FHD [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23776
+#EXTINF:-1,RO: DIGI SPORT 2 FHD
+http://jockeriptv.com:8080/navaro/navaro/23777
+#EXTINF:-1,RO: DIGI SPORT 3
+http://jockeriptv.com:8080/navaro/navaro/23778
+#EXTINF:-1,RO: DIGI SPORT 4
+http://jockeriptv.com:8080/navaro/navaro/23779
+#EXTINF:-1,RO: LOOK SPORT
+http://jockeriptv.com:8080/navaro/navaro/23780
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://jockeriptv.com:8080/navaro/navaro/23781
+#EXTINF:-1,RO: TELEKOM SPORT 2
+http://jockeriptv.com:8080/navaro/navaro/23782
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://jockeriptv.com:8080/navaro/navaro/23783
+#EXTINF:-1,RO: TELEKOM SPORT 5
+http://jockeriptv.com:8080/navaro/navaro/23784
 #EXTINF:-1,###LISTA NOUA RO###################
 http://dna-iptv.com:999/SoZSdjBSan/KMZMfAIKxD/1e8
 #EXTINF:-1 ,Romania: 1 Music Channel

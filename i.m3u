@@ -1,4 +1,88 @@
 #EXTM3U
+#EXTINF:-1,RO: KANAL D
+http://jockeriptv.com:8080/navaro/navaro/23742
+#EXTINF:-1,RO: PROTV
+http://jockeriptv.com:8080/navaro/navaro/23743
+#EXTINF:-1,RO: PRO TV 2
+http://jockeriptv.com:8080/navaro/navaro/23744
+#EXTINF:-1,RO: PROTV INTERNATIONAL
+http://jockeriptv.com:8080/navaro/navaro/23745
+#EXTINF:-1,RO: NATIONAL TV
+http://jockeriptv.com:8080/navaro/navaro/23746
+#EXTINF:-1,RO: ANTENA 1 HD
+http://jockeriptv.com:8080/navaro/navaro/23747
+#EXTINF:-1,RO: ANTENA 3 FHD
+http://jockeriptv.com:8080/navaro/navaro/23748
+#EXTINF:-1,RO: PRIMA TV
+http://jockeriptv.com:8080/navaro/navaro/23749
+#EXTINF:-1,RO: PRO CINEMA
+http://jockeriptv.com:8080/navaro/navaro/23750
+#EXTINF:-1,RO: B1
+http://jockeriptv.com:8080/navaro/navaro/23751
+#EXTINF:-1,RO: ANTENA STARS FHD
+http://jockeriptv.com:8080/navaro/navaro/23752
+#EXTINF:-1,RO: AMC
+http://jockeriptv.com:8080/navaro/navaro/23753
+#EXTINF:-1,RO: AXN [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23754
+#EXTINF:-1,RO: AXN WHITE
+http://jockeriptv.com:8080/navaro/navaro/23755
+#EXTINF:-1,RO: TLC
+http://jockeriptv.com:8080/navaro/navaro/23756
+#EXTINF:-1,RO: TV 1000 HD
+http://jockeriptv.com:8080/navaro/navaro/23757
+#EXTINF:-1,RO: UTV FHD
+http://jockeriptv.com:8080/navaro/navaro/23758
+#EXTINF:-1,RO: B1 TV
+http://jockeriptv.com:8080/navaro/navaro/23759
+#EXTINF:-1,RO: CROMTEL
+http://jockeriptv.com:8080/navaro/navaro/23761
+#EXTINF:-1,RO: DIVA UNIVERSAL
+http://jockeriptv.com:8080/navaro/navaro/23762
+#EXTINF:-1,RO: FILMBOX EXTRA FHD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23763
+#EXTINF:-1,RO: HAPPY CHANNEL FHD
+http://jockeriptv.com:8080/navaro/navaro/23764
+#EXTINF:-1,RO: HBO 3
+http://jockeriptv.com:8080/navaro/navaro/23765
+#EXTINF:-1,RO: KISS TV
+http://jockeriptv.com:8080/navaro/navaro/23766
+#EXTINF:-1,RO: LOOK PLUS FHD
+http://jockeriptv.com:8080/navaro/navaro/23767
+#EXTINF:-1,RO: MUSIC CHANNEL
+http://jockeriptv.com:8080/navaro/navaro/23768
+#EXTINF:-1,RO: CARTOON NETWORK
+http://jockeriptv.com:8080/navaro/navaro/23769
+#EXTINF:-1,RO: DISNEY JUNIOR
+http://jockeriptv.com:8080/navaro/navaro/23770
+#EXTINF:-1,RO: MINIMAX ROMANIA HD
+http://jockeriptv.com:8080/navaro/navaro/23771
+#EXTINF:-1,RO: CBS REALITY
+http://jockeriptv.com:8080/navaro/navaro/23772
+#EXTINF:-1,RO: HISTORY FHD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23773
+#EXTINF:-1,RO: NAT GEO WILD HD [MULTI-SUB]
+http://jockeriptv.com:8080/navaro/navaro/23774
+#EXTINF:-1,RO: FISHING & HUNTING [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23775
+#EXTINF:-1,RO: DIGI SPORT 1 FHD [MULTI-AUDIO]
+http://jockeriptv.com:8080/navaro/navaro/23776
+#EXTINF:-1,RO: DIGI SPORT 2 FHD
+http://jockeriptv.com:8080/navaro/navaro/23777
+#EXTINF:-1,RO: DIGI SPORT 3
+http://jockeriptv.com:8080/navaro/navaro/23778
+#EXTINF:-1,RO: DIGI SPORT 4
+http://jockeriptv.com:8080/navaro/navaro/23779
+#EXTINF:-1,RO: LOOK SPORT
+http://jockeriptv.com:8080/navaro/navaro/23780
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://jockeriptv.com:8080/navaro/navaro/23781
+#EXTINF:-1,RO: TELEKOM SPORT 2
+http://jockeriptv.com:8080/navaro/navaro/23782
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://jockeriptv.com:8080/navaro/navaro/23783
+#EXTINF:-1,RO: TELEKOM SPORT 5
+http://jockeriptv.com:8080/navaro/navaro/23784
 #EXTINF:-1,===Canale1================
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Music Channel
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8?checkedby:iptvcat.com

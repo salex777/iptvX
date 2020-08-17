@@ -1,88 +1,345 @@
 #EXTM3U
+#EXTM3U
 #EXTINF:-1,RO: KANAL D
-http://jockeriptv.com:8080/navaro/navaro/23742
-#EXTINF:-1,RO: PROTV
-http://jockeriptv.com:8080/navaro/navaro/23743
-#EXTINF:-1,RO: PRO TV 2
-http://jockeriptv.com:8080/navaro/navaro/23744
-#EXTINF:-1,RO: PROTV INTERNATIONAL
-http://jockeriptv.com:8080/navaro/navaro/23745
-#EXTINF:-1,RO: NATIONAL TV
-http://jockeriptv.com:8080/navaro/navaro/23746
-#EXTINF:-1,RO: ANTENA 1 HD
-http://jockeriptv.com:8080/navaro/navaro/23747
-#EXTINF:-1,RO: ANTENA 3 FHD
-http://jockeriptv.com:8080/navaro/navaro/23748
-#EXTINF:-1,RO: PRIMA TV
-http://jockeriptv.com:8080/navaro/navaro/23749
-#EXTINF:-1,RO: PRO CINEMA
-http://jockeriptv.com:8080/navaro/navaro/23750
-#EXTINF:-1,RO: B1
-http://jockeriptv.com:8080/navaro/navaro/23751
-#EXTINF:-1,RO: ANTENA STARS FHD
-http://jockeriptv.com:8080/navaro/navaro/23752
-#EXTINF:-1,RO: AMC
-http://jockeriptv.com:8080/navaro/navaro/23753
-#EXTINF:-1,RO: AXN [MULTI-AUDIO]
-http://jockeriptv.com:8080/navaro/navaro/23754
-#EXTINF:-1,RO: AXN WHITE
-http://jockeriptv.com:8080/navaro/navaro/23755
-#EXTINF:-1,RO: TLC
-http://jockeriptv.com:8080/navaro/navaro/23756
-#EXTINF:-1,RO: TV 1000 HD
-http://jockeriptv.com:8080/navaro/navaro/23757
-#EXTINF:-1,RO: UTV FHD
-http://jockeriptv.com:8080/navaro/navaro/23758
-#EXTINF:-1,RO: B1 TV
-http://jockeriptv.com:8080/navaro/navaro/23759
-#EXTINF:-1,RO: CROMTEL
-http://jockeriptv.com:8080/navaro/navaro/23761
-#EXTINF:-1,RO: DIVA UNIVERSAL
-http://jockeriptv.com:8080/navaro/navaro/23762
-#EXTINF:-1,RO: FILMBOX EXTRA FHD [MULTI-SUB]
-http://jockeriptv.com:8080/navaro/navaro/23763
-#EXTINF:-1,RO: HAPPY CHANNEL FHD
-http://jockeriptv.com:8080/navaro/navaro/23764
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45560
+#EXTINF:-1,RO: KANAL D HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45561
+#EXTINF:-1,RO: Happy Channel
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45542
+#EXTINF:-1,RO: Happy Channel HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45543
+#EXTINF:-1,RO: HBO 1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45544
+#EXTINF:-1,RO: HBO 1 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45545
+#EXTINF:-1,RO: HBO 2
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45546
+#EXTINF:-1,RO: HBO 2 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45547
 #EXTINF:-1,RO: HBO 3
-http://jockeriptv.com:8080/navaro/navaro/23765
-#EXTINF:-1,RO: KISS TV
-http://jockeriptv.com:8080/navaro/navaro/23766
-#EXTINF:-1,RO: LOOK PLUS FHD
-http://jockeriptv.com:8080/navaro/navaro/23767
-#EXTINF:-1,RO: MUSIC CHANNEL
-http://jockeriptv.com:8080/navaro/navaro/23768
-#EXTINF:-1,RO: CARTOON NETWORK
-http://jockeriptv.com:8080/navaro/navaro/23769
-#EXTINF:-1,RO: DISNEY JUNIOR
-http://jockeriptv.com:8080/navaro/navaro/23770
-#EXTINF:-1,RO: MINIMAX ROMANIA HD
-http://jockeriptv.com:8080/navaro/navaro/23771
-#EXTINF:-1,RO: CBS REALITY
-http://jockeriptv.com:8080/navaro/navaro/23772
-#EXTINF:-1,RO: HISTORY FHD [MULTI-SUB]
-http://jockeriptv.com:8080/navaro/navaro/23773
-#EXTINF:-1,RO: NAT GEO WILD HD [MULTI-SUB]
-http://jockeriptv.com:8080/navaro/navaro/23774
-#EXTINF:-1,RO: FISHING & HUNTING [MULTI-AUDIO]
-http://jockeriptv.com:8080/navaro/navaro/23775
-#EXTINF:-1,RO: DIGI SPORT 1 FHD [MULTI-AUDIO]
-http://jockeriptv.com:8080/navaro/navaro/23776
-#EXTINF:-1,RO: DIGI SPORT 2 FHD
-http://jockeriptv.com:8080/navaro/navaro/23777
-#EXTINF:-1,RO: DIGI SPORT 3
-http://jockeriptv.com:8080/navaro/navaro/23778
-#EXTINF:-1,RO: DIGI SPORT 4
-http://jockeriptv.com:8080/navaro/navaro/23779
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45548
+#EXTINF:-1,RO: HBO 3 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45549
+#EXTINF:-1,RO: HBO Romania
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45550
+#EXTINF:-1,RO: TVR 1 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45630
+#EXTINF:-1,RO: TVR 2
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45631
+#EXTINF:-1,RO: TVR 2 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45632
+#EXTINF:-1,RO: TVR Cluj
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45633
+#EXTINF:-1,RO: TVR Craiova
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45634
+#EXTINF:-1,RO: TVR Iasi
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45635
+#EXTINF:-1,RO: 1 Mus.com
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45418
+#EXTINF:-1,RO: 1 Music Channel
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45419
+#EXTINF:-1,RO: Accent TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45421
+#EXTINF:-1,RO: Actualitatea TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45422
+#EXTINF:-1,RO: Alfa Omega TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45424
+#EXTINF:-1,RO: Antena 1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45430
+#EXTINF:-1,RO: Antena 1 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45431
+#EXTINF:-1,RO: ANTENA 1 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45432
+#EXTINF:-1,RO: ANTENA 3
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45434
+#EXTINF:-1,RO: ANTENA 3 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45435
+#EXTINF:-1,RO: Antena Comedy
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45437
+#EXTINF:-1,RO: Antena Monden
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45438
+#EXTINF:-1,RO: ANTENA PLAY COOK
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45439
+#EXTINF:-1,RO: Antena Stars
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45440
+#EXTINF:-1,RO: Antena Stars HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45441
+#EXTINF:-1,RO: Arcadia  Tv
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45444
+#EXTINF:-1,RO: AXN HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45449
+#EXTINF:-1,RO: B1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45452
+#EXTINF:-1,RO: BALKAN MUSIC HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45453
+#EXTINF:-1,RO: Balkanika
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45454
+#EXTINF:-1,RO: BBC EARTH
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45455
+#EXTINF:-1,RO: BBC Earth HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45456
+#EXTINF:-1,RO: Bit TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45457
+#EXTINF:-1,RO: Bollywood CLASIC
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45459
+#EXTINF:-1,RO: Bollywood Tv HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45460
+#EXTINF:-1,RO: Boomerang
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45462
+#EXTINF:-1,RO: Bucovina TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45464
+#EXTINF:-1,RO: Canal Regional
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45465
+#EXTINF:-1,RO: Cbs Reality
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45468
+#EXTINF:-1,RO: CINEMARATON SD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45469
+#EXTINF:-1,RO: CINEMAX 1 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45470
+#EXTINF:-1,RO: Cinemax 2
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45472
+#EXTINF:-1,RO: Cinemax 2 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45473
+#EXTINF:-1,RO: Cinemax HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45474
+#EXTINF:-1,RO: Cinethronix
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45475
+#EXTINF:-1,RO: Comedy Central
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45477
+#EXTINF:-1,RO: ComedyEst HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45478
+#EXTINF:-1,RO: Credo TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45479
+#EXTINF:-1,RO: Crime & Investigation Network
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45481
+#EXTINF:-1,RO: Cromtel TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45482
+#EXTINF:-1,RO: Da Vinci Learning
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45483
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45489
+#EXTINF:-1,RO: DIGI LIFE
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45491
+#EXTINF:-1,RO: DIGI LIFE HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45492
+#EXTINF:-1,RO: DIGI WORLD HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45501
+#EXTINF:-1,RO: DISCOVERY ID
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45502
+#EXTINF:-1,RO: Discovery
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45503
+#EXTINF:-1,RO: Discovery Investigation HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45505
+#EXTINF:-1,RO: Discovery Science
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45506
+#EXTINF:-1,RO: Discovery Science HD 1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45507
+#EXTINF:-1,RO: Discovery Showcase HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45508
+#EXTINF:-1,RO: Disney Jr
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45509
+#EXTINF:-1,RO: DOCU BOX
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45511
+#EXTINF:-1,RO: DocuBox HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45512
+#EXTINF:-1,RO: DTX
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45513
+#EXTINF:-1,RO: ducktv
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45514
+#EXTINF:-1,RO: E! ENTERTAIMENT
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45515
+#EXTINF:-1,RO: E! ENTERTAIMENT HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45516
+#EXTINF:-1,RO: Elita TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45517
+#EXTINF:-1,RO: Epic Drama
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45518
+#EXTINF:-1,RO: Epic Drama HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45519
+#EXTINF:-1,RO: Etno
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45520
+#EXTINF:-1,RO: EUROSPORT 1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45521
+#EXTINF:-1,RO: Extreme Sport
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45524
+#EXTINF:-1,RO: Favorit TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45525
+#EXTINF:-1,RO: FILM NOW HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45526
+#EXTINF:-1,RO: FILMNOW SD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45528
+#EXTINF:-1,RO: FightBox
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45529
+#EXTINF:-1,RO: Film Box Extra HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45530
+#EXTINF:-1,RO: Film Cafe
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45531
+#EXTINF:-1,RO: Filmbox Family
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45532
+#EXTINF:-1,RO: FilmBox Plus INT
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45533
+#EXTINF:-1,RO: FilmBox Premium
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45534
+#EXTINF:-1,RO: Fine Living
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45535
+#EXTINF:-1,RO: Fishing and Hunting HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45537
+#EXTINF:-1,RO: Food Network
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45538
+#EXTINF:-1,RO: GurinelTV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45541
+#EXTINF:-1,RO: Hora TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45553
+#EXTINF:-1,RO: Iasi TV Life
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45554
+#EXTINF:-1,RO: Info HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45557
+#EXTINF:-1,RO: Intermedia TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45558
+#EXTINF:-1,RO: JimJam
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45559
+#EXTINF:-1,RO: Kaptial TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45563
+#EXTINF:-1,RO: Kiss tv
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45564
+#EXTINF:-1,RO: Look Plus
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45565
+#EXTINF:-1,RO: LOOK PLUS HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45566
+#EXTINF:-1,RO: MinimaxRo
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45569
+#EXTINF:-1,RO: MTV Dance
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45574
+#EXTINF:-1,RO: MTV Hits
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45575
+#EXTINF:-1,RO: MTV MUSIC 24/7
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45576
+#EXTINF:-1,RO: MTV Rocks
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45577
+#EXTINF:-1,RO: NATIONAL HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45581
+#EXTINF:-1,RO: National 24 Plus
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45582
+#EXTINF:-1,RO: National TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45583
+#EXTINF:-1,RO: Nick Jr
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45585
+#EXTINF:-1,RO: Nickelodeon
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45586
+#EXTINF:-1,RO: Nicktoons
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45587
+#EXTINF:-1,RO: NikelodeonRomania
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45588
+#EXTINF:-1,RO: Noroc TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45589
+#EXTINF:-1,RO: Paramount channel
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45590
+#EXTINF:-1,RO: Party Mix
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45591
+#EXTINF:-1,RO: Planeta BG Music
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45593
+#EXTINF:-1,RO: PRIMA TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45594
+#EXTINF:-1,RO: PRO 2 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45595
+#EXTINF:-1,RO: PRO 2 SD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45596
+#EXTINF:-1,RO: PRO CINEMA SD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45597
+#EXTINF:-1,RO: PRO GOLD SD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45598
+#EXTINF:-1,RO: Pro TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45599
+#EXTINF:-1,RO: Pro TV News
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45601
+#EXTINF:-1,RO: PRO X
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45603
+#EXTINF:-1,RO: PRO X HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45604
+#EXTINF:-1,RO: Profit.ro
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45605
+#EXTINF:-1,RO: PRO-X HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45606
+#EXTINF:-1,RO: Publika TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45607
+#EXTINF:-1,RO: Realitatea TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45608
+#EXTINF:-1,RO: Slager TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45610
+#EXTINF:-1,RO: TNT
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45620
+#EXTINF:-1,RO: TRINITAS TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45624
+#EXTINF:-1,RO: TV 1000
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45625
+#EXTINF:-1,RO: TV Paprika
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45626
+#EXTINF:-1,RO: TV1000
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45627
+#EXTINF:-1,RO: TVR 1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45629
+#EXTINF:-1,RO: TVR Moldova
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45636
+#EXTINF:-1,RO: TVR Timisoara
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45637
+#EXTINF:-1,RO: TVR3
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45638
+#EXTINF:-1,RO: VH1
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45639
+#EXTINF:-1,RO: VH1 RO
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45640
+#EXTINF:-1,RO: ZU TV
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45645
+#EXTINF:-1,RO: TLC
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45619
+#EXTINF:-1,RO: NAT GEO WILD HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45578
+#EXTINF:-1,RO: NATIONAL GEOGRAPHIC
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45579
+#EXTINF:-1,RO: ANIMAL PLANET
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45428
+#EXTINF:-1,RO: ANIMAL PLANET HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45429
+#EXTINF:-1,RO: History
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45551
+#EXTINF:-1,RO: Travel Channel
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45621
+#EXTINF:-1,RO: TRAVEL MIX
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45623
+#EXTINF:-1,RO: Travel Channel HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45622
+#EXTINF:-1,RO: VIASAT NATURE HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45641
+#EXTINF:-1,RO: Viasat Explore
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45642
+#EXTINF:-1,RO: Viasat History
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45643
+#EXTINF:-1,RO: Viasat Nature
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45644
+#EXTINF:-1,RO: DIGI SPORT 1 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/48717
+#EXTINF:-1,RO: DIGI SPORT 2 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/48718
+#EXTINF:-1,RO: DIGI SPORT 3 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45497
+#EXTINF:-1,RO: DIGI SPORT 4 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45499
+#EXTINF:-1,RO: TELEKOM SPORT 1 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45613
+#EXTINF:-1,RO: TELEKOM SPORT 2 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45614
+#EXTINF:-1,RO: TELEKOM SPORT 2 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45615
+#EXTINF:-1,RO: TELEKOM SPORT 3 FHD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45616
+#EXTINF:-1,RO: TELEKOM SPORT 4 HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45617
 #EXTINF:-1,RO: LOOK SPORT
-http://jockeriptv.com:8080/navaro/navaro/23780
-#EXTINF:-1,RO: TELEKOM SPORT 1
-http://jockeriptv.com:8080/navaro/navaro/23781
-#EXTINF:-1,RO: TELEKOM SPORT 2
-http://jockeriptv.com:8080/navaro/navaro/23782
-#EXTINF:-1,RO: TELEKOM SPORT 4
-http://jockeriptv.com:8080/navaro/navaro/23783
-#EXTINF:-1,RO: TELEKOM SPORT 5
-http://jockeriptv.com:8080/navaro/navaro/23784
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45567
+#EXTINF:-1,RO: Look Sport HD
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45568
+#EXTINF:-1,RO: Auto Motor Sport
+http://vip.verapremium.com:8080/f5EuXKjpZv/bQjBjAlJHe/45446
 #EXTINF:-1,===Canale1================
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Music Channel
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8?checkedby:iptvcat.com

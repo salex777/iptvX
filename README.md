@@ -1,2 +1,1 @@
-# iptvX
-IPTV ROMANIA
+# pvX

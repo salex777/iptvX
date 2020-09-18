@@ -1,64 +1,70 @@
 #EXTM3U
-#EXTINF:-1,===Canale....###================
+#EXTINF:-1,===Canalele================
 http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/43111309
-#EXTINF:-1,Ro:HBO_1_HD
-http://mhiptv.com:8888/22558899/22558899/4841
-#EXTINF:-1,Ro:HBO_2_HD
-http://mhiptv.com:8888/22558899/22558899/4840
-#EXTINF:-1,Ro:HBO_3_HD
-http://mhiptv.com:8888/22558899/22558899/4839
-#EXTINF:-1,Ro:Digi_Sport1
-http://mhiptv.com:8888/22558899/22558899/4838
-#EXTINF:-1,Ro:Digi_Sport2
-http://mhiptv.com:8888/22558899/22558899/4837
-#EXTINF:-1,Ro:Digi_Sport3
-http://mhiptv.com:8888/22558899/22558899/4836
-#EXTINF:-1,Ro:Digi_Sport4
-http://mhiptv.com:8888/22558899/22558899/4835
-#EXTINF:-1,Ro:TVR 1
-http://mhiptv.com:8888/22558899/22558899/4831
-#EXTINF:-1,Ro:TVR_2
-http://mhiptv.com:8888/22558899/22558899/4828
-#EXTINF:-1,Ro:TVR_3
-http://mhiptv.com:8888/22558899/22558899/4829
-#EXTINF:-1,Ro:Antena_1
-http://mhiptv.com:8888/22558899/22558899/4823
-#EXTINF:-1,Ro:CineMax_2
-http://mhiptv.com:8888/22558899/22558899/4822
-#EXTINF:-1,Ro:Digi World
-http://mhiptv.com:8888/22558899/22558899/4830
-#EXTINF:-1,Ro:Digi_Animal_World
+#EXTINF:-1,TV1000 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6807
+#EXTINF:-1,Ro:Digi_Animal_World (RO)
 http://mhiptv.com:8888/22558899/22558899/4834
-#EXTINF:-1,Ro:Digi_Filim
-http://mhiptv.com:8888/22558899/22558899/4833
-#EXTINF:-1,Ro:Digi_Life
-http://mhiptv.com:8888/22558899/22558899/4832
-#EXTINF:-1,Ro:Disney_Junior
-http://mhiptv.com:8888/22558899/22558899/4821
-#EXTINF:-1,Ro:History_Channel
-http://mhiptv.com:8888/22558899/22558899/4820
-#EXTINF:-1,Ro:KanaL_D
-http://mhiptv.com:8888/22558899/22558899/4819
-#EXTINF:-1,Ro:MegaMax
-http://mhiptv.com:8888/22558899/22558899/4815
-#EXTINF:-1,Ro:MiniMax
-http://mhiptv.com:8888/22558899/22558899/4818
-#EXTINF:-1,Ro:Nat_Geo
-http://mhiptv.com:8888/22558899/22558899/4817
-#EXTINF:-1,Ro:Nat_Geo_Wild
-http://mhiptv.com:8888/22558899/22558899/4816
-#EXTINF:-1,Ro:National
-http://mhiptv.com:8888/22558899/22558899/4813
-#EXTINF:-1,Ro:Pro_TV
-http://mhiptv.com:8888/22558899/22558899/4812
-#EXTINF:-1,Ro:TV1000
-http://mhiptv.com:8888/22558899/22558899/4827
-#EXTINF:-1,Ro:Viasat_Explorer
-http://mhiptv.com:8888/22558899/22558899/4826
-#EXTINF:-1,Ro:Viasat_History
-http://mhiptv.com:8888/22558899/22558899/4825
-#EXTINF:-1,Ro:Viasat_Nature
-http://mhiptv.com:8888/22558899/22558899/4824
+#EXTINF:-1,Ro:HBO_1_HD* (RO)
+http://mhiptv.com:8888/22558899/22558899/4841
+#EXTINF:-1,HAPPY CHANNEL (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10237
+#EXTINF:-1,MINIMAX (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10238
+#EXTINF:-1,MEGAMAX (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6668
+#EXTINF:-1,TVR 1 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10232
+#EXTINF:-1,TVR 2 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6678
+#EXTINF:-1,TVR 3 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6667
+#EXTINF:-1,TVR INT (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10223
+#EXTINF:-1,ROMANIA TV (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10241
+#EXTINF:-1,B1 TV (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10239
+#EXTINF:-1,ANTENA STARS (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10236
+#EXTINF:-1,ANTENA 1 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10228
+#EXTINF:-1,ANTENA 3 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10233
+#EXTINF:-1,PRO TV (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6677
+#EXTINF:-1,PRO 2 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10225
+#EXTINF:-1,PRO INT (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/10227
+#EXTINF:-1,PRO CINEMA (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6674
+#EXTINF:-1,PRO GOLD (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6673
+#EXTINF:-1,PRIMA TV (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6662
+#EXTINF:-1,PRIMA LOVE (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6661
+#EXTINF:-1,PRIMA COOL (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6775
+#EXTINF:-1,REALITATEA TV (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77332
+#EXTINF:-1,DIGI SPORT 1 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6771
+#EXTINF:-1,DIGI SPORT 2 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/6770
+#EXTINF:-1,DIGI SPORT 3 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77335
+#EXTINF:-1,DIGI SPORT 4 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77340
+#EXTINF:-1,TELEKOM SPORT 1 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77366
+#EXTINF:-1,TELEKOM SPORT 2 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77365
+#EXTINF:-1,TELEKOM SPORT 3 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77334
+#EXTINF:-1,TELEKOM SPORT 4 (RO)
+http://f.ok2.se:8000/Sherrie1/Sherrie1/77333
 #EXTINF:-1,===CanaleBune###================
 http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/43111309
 #EXTINF:-1,Kanal D HD

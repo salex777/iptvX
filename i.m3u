@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Canale_TV
-http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/43111309
-#EXTINF:-1 tvg-ID="Discovery Channel" tvg-name="RO: Discovery channel" tvg-logo="https://oes.vn/wp-content/uploads/2016/03/Discovery-channel-logo-old-1024x768.png" group-title="Romania",RO: Discovery channel
-http://m3ulink.com:7899/kapk21/qweasd1/32362
-#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="RO: Discovery science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Romania",RO: Discovery science
-http://m3ulink.com:7899/kapk21/qweasd1/33041
-#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="RO: Discovery Science FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Romania",RO: Discovery Science FHD
-http://m3ulink.com:7899/kapk21/qweasd1/33040
 #EXTINF:-1,===CanaleleNOI================
 http://key-fast.xyz:8080/MakhmudOmar/Ddddf3434/43111309
 #EXTINF:-1,RO: Trinitas
